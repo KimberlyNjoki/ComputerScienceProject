@@ -3,6 +3,9 @@
 Repository:
 [https://github.com/KimberlyNjoki/kimberly_makeup]
 
+Live Server Link:
+[https://kimberly-makeup.vercel.app/]
+
 Description:
 A responsive e-commerce platform developed for Inizio Cosmetics. The website showcases beauty products through an organised catalogue, shopping cart functionality and a visually appealing user interface designed to improve the customer shopping experience.
 

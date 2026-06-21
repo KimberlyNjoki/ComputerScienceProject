@@ -10,6 +10,11 @@ Portfolio URL:
 
 [https://kimberlynjoki.github.io/PortfolioWebsite/]
 
+## Repository link
+Repository URL :
+
+[https://github.com/KimberlyNjoki/PortfolioWebsite]
+
 ## Features
 
 * Responsive single-page design
